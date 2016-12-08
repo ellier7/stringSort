@@ -1,0 +1,7 @@
+<div ng-controller="sortingCtrl">
+  <form novalidate class="simple-form">
+    <div class="justified"><textarea ng-model="words" placeholder="Type Word to Sort"></textarea></div>
+    <div class="button"><input type="submit" ng-click="sortWords(words)" value="Check" /></div>
+  </form>
+  <div class="return" ng-if="returnSort"> <strong>Sorted Result:</strong></br>{{returnSort}}</div>
+</div>

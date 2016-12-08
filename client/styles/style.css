@@ -1,0 +1,25 @@
+h1 {
+	color: mediumaquamarine;
+	text-align: center;
+	font-family: 'Raleway Dots', cursive;
+	font-weight: bolder;
+}
+
+.justified, .button{
+	display: flex;
+	justify-content: center;
+	padding: 5px;
+}
+
+.return {
+	padding-top: 15px;
+	font-family: proxima-nova, sans-serif;
+	text-align: center;
+	color: rebeccapurple;
+	font-weight: lighter;
+}
+
+textarea {
+	width: 204px;
+    height: 45px;
+}
