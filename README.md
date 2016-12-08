@@ -1,6 +1,6 @@
 #Sorting Strings
 
-##Angular application that uses mergesort algorithm to sort words
+###Angular application that uses mergesort algorithm to sort words
 
 To run application:
 npm install
