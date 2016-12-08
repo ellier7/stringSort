@@ -2,10 +2,10 @@
 
 ###Angular application that uses mergesort algorithm to sort words
 
-To run application:
+###To run application:
 npm install
 npm run start
 
 
-Run in browser:
+###Run in browser:
 http://localhost:4000
